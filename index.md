@@ -26,11 +26,10 @@ Hey Guys! I'm Aryan, a data scientist passionate about combining machine learnin
 
 ### ✍️ Latest Blog Posts
 
-- **Why I Love Data Science** *(Aug 2025)*  
-  I reflect on the interdisciplinary nature of data science and how projects at UW–Madison sparked my passion for combining math, storytelling, and impact.
-
-- **From Logistic Regression to GPT: My AI Journey** *(Jul 2025)*  
-  How I moved from textbook ML models to building an end-to-end LangChain app with GPT.
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})  
+  *{{ post.date | date: "%b %-d, %Y" }}*
+{% endfor %}
 
 ---
 
