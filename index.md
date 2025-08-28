@@ -5,7 +5,7 @@ title: Aryan Raj | Portfolio & Blog
 
 ### 👨‍💻 About Me
 
-**Data Scientist | AI Explorer | Blogger**
+**Data Scientist** | **AI Explorer** | **Blogger**
 
 I'm Aryan Raj, a data scientist passionate about combining machine learning and storytelling. Welcome to my portfolio and blog!
 
