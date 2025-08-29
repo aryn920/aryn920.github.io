@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why I Love Data Science"
-date: 2025-08-28
+title: "Choosing Your AI Architect: A Deep Dive into LangChain and LlamaIndex"
+date: 2025-06-28
 categories: [DataScience, Blog]
 ---
 
